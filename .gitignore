@@ -1,3 +1,5 @@
 #忽略video.css文件
 video.css
 node_modules
+*.js
+
